@@ -41,7 +41,7 @@ h1 {
   float: left;
 }
 
-p.chicken {
+section.chicken {
 	background-color:#ff9999;
 	font-size: 1.25em;
 	margin-top: -2px;
@@ -52,7 +52,7 @@ p.chicken {
 	clear: left;
 }
 
-p.beef {
+section.beef {
 	background-color: #ffffe6;
 	font-size: 1.25em;
 	margin-top: -2px;
@@ -62,7 +62,7 @@ p.beef {
 	float: right;
 	clear: left;
 }
-p.sushi {
+section.sushi {
 	background-color: #ffd699;
 	font-size: 1.25em;
 	margin-top: -2px;
